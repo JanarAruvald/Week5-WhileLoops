@@ -1,0 +1,12 @@
+C:\Users\opilane\source\repos\TITpe21\Kalkulaator\Kalkulaator\bin\Debug\netcoreapp3.1\Kalkulaator.exe
+C:\Users\opilane\source\repos\TITpe21\Kalkulaator\Kalkulaator\bin\Debug\netcoreapp3.1\Kalkulaator.deps.json
+C:\Users\opilane\source\repos\TITpe21\Kalkulaator\Kalkulaator\bin\Debug\netcoreapp3.1\Kalkulaator.runtimeconfig.json
+C:\Users\opilane\source\repos\TITpe21\Kalkulaator\Kalkulaator\bin\Debug\netcoreapp3.1\Kalkulaator.runtimeconfig.dev.json
+C:\Users\opilane\source\repos\TITpe21\Kalkulaator\Kalkulaator\bin\Debug\netcoreapp3.1\Kalkulaator.dll
+C:\Users\opilane\source\repos\TITpe21\Kalkulaator\Kalkulaator\bin\Debug\netcoreapp3.1\Kalkulaator.pdb
+C:\Users\opilane\source\repos\TITpe21\Kalkulaator\Kalkulaator\obj\Debug\netcoreapp3.1\Kalkulaator.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\TITpe21\Kalkulaator\Kalkulaator\obj\Debug\netcoreapp3.1\Kalkulaator.AssemblyInfo.cs
+C:\Users\opilane\source\repos\TITpe21\Kalkulaator\Kalkulaator\obj\Debug\netcoreapp3.1\Kalkulaator.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\TITpe21\Kalkulaator\Kalkulaator\obj\Debug\netcoreapp3.1\Kalkulaator.dll
+C:\Users\opilane\source\repos\TITpe21\Kalkulaator\Kalkulaator\obj\Debug\netcoreapp3.1\Kalkulaator.pdb
+C:\Users\opilane\source\repos\TITpe21\Kalkulaator\Kalkulaator\obj\Debug\netcoreapp3.1\Kalkulaator.genruntimeconfig.cache

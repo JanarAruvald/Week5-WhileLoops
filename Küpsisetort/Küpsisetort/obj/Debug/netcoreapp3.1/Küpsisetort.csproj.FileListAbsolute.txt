@@ -1,0 +1,4 @@
+C:\Users\opilane\source\repos\TITpe21\Küpsisetort\Küpsisetort\obj\Debug\netcoreapp3.1\Küpsisetort.csprojAssemblyReference.cache
+C:\Users\opilane\source\repos\TITpe21\Küpsisetort\Küpsisetort\obj\Debug\netcoreapp3.1\Küpsisetort.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\TITpe21\Küpsisetort\Küpsisetort\obj\Debug\netcoreapp3.1\Küpsisetort.AssemblyInfo.cs
+C:\Users\opilane\source\repos\TITpe21\Küpsisetort\Küpsisetort\obj\Debug\netcoreapp3.1\Küpsisetort.csproj.CoreCompileInputs.cache
