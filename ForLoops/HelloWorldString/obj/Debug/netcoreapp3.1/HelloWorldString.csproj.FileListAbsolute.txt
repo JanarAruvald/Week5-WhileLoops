@@ -1,0 +1,12 @@
+C:\Users\opilane\source\repos\TITpe21\ForLoops\HelloWorldString\bin\Debug\netcoreapp3.1\HelloWorldString.exe
+C:\Users\opilane\source\repos\TITpe21\ForLoops\HelloWorldString\bin\Debug\netcoreapp3.1\HelloWorldString.deps.json
+C:\Users\opilane\source\repos\TITpe21\ForLoops\HelloWorldString\bin\Debug\netcoreapp3.1\HelloWorldString.runtimeconfig.json
+C:\Users\opilane\source\repos\TITpe21\ForLoops\HelloWorldString\bin\Debug\netcoreapp3.1\HelloWorldString.runtimeconfig.dev.json
+C:\Users\opilane\source\repos\TITpe21\ForLoops\HelloWorldString\bin\Debug\netcoreapp3.1\HelloWorldString.dll
+C:\Users\opilane\source\repos\TITpe21\ForLoops\HelloWorldString\bin\Debug\netcoreapp3.1\HelloWorldString.pdb
+C:\Users\opilane\source\repos\TITpe21\ForLoops\HelloWorldString\obj\Debug\netcoreapp3.1\HelloWorldString.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\TITpe21\ForLoops\HelloWorldString\obj\Debug\netcoreapp3.1\HelloWorldString.AssemblyInfo.cs
+C:\Users\opilane\source\repos\TITpe21\ForLoops\HelloWorldString\obj\Debug\netcoreapp3.1\HelloWorldString.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\TITpe21\ForLoops\HelloWorldString\obj\Debug\netcoreapp3.1\HelloWorldString.dll
+C:\Users\opilane\source\repos\TITpe21\ForLoops\HelloWorldString\obj\Debug\netcoreapp3.1\HelloWorldString.pdb
+C:\Users\opilane\source\repos\TITpe21\ForLoops\HelloWorldString\obj\Debug\netcoreapp3.1\HelloWorldString.genruntimeconfig.cache
